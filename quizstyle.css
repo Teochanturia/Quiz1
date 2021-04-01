@@ -1,0 +1,7 @@
+body{
+   text-decoration: solid 7px blue;
+}
+
+p.solid{
+    style:"border-bottom: solid 2px rgb(128, 128, 128);"
+}
